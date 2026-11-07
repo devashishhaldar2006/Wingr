@@ -271,7 +271,7 @@ export default function AuthScreen() {
               Win<Text style={styles.brandAccent}>gr</Text>
             </Text>
           </View>
-          <Text style={styles.brandSubtitle}>The developer’s wingman • Career intelligence</Text>
+          <Text style={styles.brandSubtitle}>The Developer’s Wingman • Career intelligence</Text>
         </View>
 
         {/* Verification Code View */}
